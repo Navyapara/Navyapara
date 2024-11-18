@@ -2,7 +2,7 @@
 - 👀 I’m interested in python
 - 🌱 I’m currently learning machine learning in python 
 - 💞️ I’m looking to collaborate on projects 
-- 📫 How to reach me : my email is paranavya15@gmail.com 
+- 📫 How to reach me 
 - 😄 Pronouns: 
 - ⚡ Fun fact: ...
 
